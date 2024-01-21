@@ -1,25 +1,21 @@
 [{
     "id": 1,
     "firstName": "Ella",
-    "lastName": "Fitzgerald",
-    "email": "fitzgee@algonquinlive.com"
+    "lastName": "Fitzgerald"
   },
   {
     "id": 2,
     "firstName": "Nina",
-    "lastName": "Simone",
-    "email": "simonen@algonquinlive.com"
+    "lastName": "Simone"
   },
   {
     "id": 3,
     "firstName": "Diana",
-    "lastName": "Duff",
-    "email": "kralld@algonquinlive.com"
+    "lastName": "Duff"
   },
   {
     "id": 3,
     "firstName": "Prescott",
-    "lastName": "Delmsie",
-    "email": "prescott@algonquinlive.com"
+    "lastName": "Delmsie"
   }
 ]
