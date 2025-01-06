@@ -1,4 +1,4 @@
 # MAD9124
 
-### Author: _your name here_
-### Cohort: _300 \ 310_
+### Author: _Theodore Van Dusen_
+### Cohort: _010_
